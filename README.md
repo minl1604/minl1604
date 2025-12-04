@@ -14,23 +14,23 @@
 <!-- SOCIAL BADGES WITH ENHANCED DESIGN -->
 <p align="center">
   <a href="https://facebook.com/NguyenMinhLong160403" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
+    <img src="https://img.shields.io/badge/FACEBOOK-CONNECT-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/784602751421251606" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
+    <img src="https://img.shields.io/badge/DISCORD-CHAT-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/minl1604" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <!-- PROFILE STATS WITH ENHANCED DESIGN -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=minl1604&style=for-the-badge&color=blueviolet&label=👁️+VISITORS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/minl1604?style=for-the-badge&color=ff69b4&label=👥+FOLLOWERS&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/minl1604?style=for-the-badge&color=yellow&label=⭐+STARS&logo=github" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=minl1604&style=for-the-badge&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/minl1604?style=for-the-badge&color=ff69b4" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/minl1604?style=for-the-badge&color=yellow" alt="Stars" />
 </p>
 
 <!-- DIVIDER -->
@@ -172,6 +172,11 @@ const backend = {
 
 <div align="center">
   
+<!-- GITHUB STATS SIDE BY SIDE -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minl1604&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minl1604&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+</p>
 
 <!-- GITHUB STREAK -->
 <p align="center">
@@ -183,6 +188,10 @@ const backend = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=minl1604&custom_title=MinL's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&theme=tokyo-night" width="100%" alt="Contribution Graph" />
 </p>
 
+<!-- PROFILE TROPHY -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=minl1604&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophies" />
+</p>
 
 </div>
 
@@ -196,6 +205,35 @@ const backend = {
 <!-- FOOTER QUOTE -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
+</div>
+
+<br>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://media.giphy.com/media/KztT2c4u8mYYUiMKdJ/giphy.gif" width="35"> Support Me
+
+<div align="center">
+  
+### ☕ Mua cho mình ly cà phê nếu bạn thấy projects của mình hữu ích!
+
+<p align="center">
+  <img src="https://img.vietqr.io/image/MB-0000548186686-compact2.jpg?amount=10000&addInfo=ung%20ho%20minl&accountName=NGUYEN%20MINH%20LONG" alt="VietQR" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bank-MB_Bank-purple?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAEBSURBVHjaYvj//z8DJYCJgULAyMjI8P//fwZGRkYGBgYGhv///zP8//+fgeH/fwYGhn8M/xkYGP4x/GdgYPjH8J/hPwMDwz+G/wz/GP4z/Gf4x/Cf4R/Df4b/DP8Y/jP8Z/jP8J/hP8N/hv8M/xn+M/xnBID/DMyMDIyMTAyMjEwMjIxMDIyMzAyMjCwMjIysDIyMbAyMjOwMjIwcDIyMnAyMjFwMjIzcDIyMPAyMjLwMjIx8DIyM/AyMjAIMjIyCDIyMQgyMjMIMjIwiDIyMogyMjGIMjIziDIyMEgyMjJIMjIxSDIyM0gyMjDIMjIwyDIyMsgyMjHIMjIxyDIyM8gyMjPIMAAMAu4xQgewHsFYAAAAASUVORK5CYII=" />
+  <img src="https://img.shields.io/badge/Account-0000548186686-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Name-NGUYEN_MINH_LONG-green?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <i>💙 Every support helps me continue building awesome projects!</i>
+</p>
+
 </div>
 
 <br>
